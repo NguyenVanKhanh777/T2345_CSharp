@@ -11,13 +11,13 @@
             check_i = true; //gia su i la so nguyen to
             for (int j = 2; j <= i; j++) // 
             {
-                if(i % j == 0)
+                if(i % j == 0) // neu i chia het cho j thi
                 {
-                    check_i = false;
-                    break;
+                    check_i = false; // ket luan 0 la so nguyen to
+                    break; // thoat khoi vong lap
                 }
             }
-            if (check_i)
+            if (check_i) // neu gia sư van dung -> i la so nguyen to
                 Console.Write("{0}, i");
         }
     }

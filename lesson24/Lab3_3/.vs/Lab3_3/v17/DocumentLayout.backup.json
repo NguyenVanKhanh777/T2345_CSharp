@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED591E8-86A5-4581-8876-47E9BD9987D2}|Lab3_3\\Lab3_3.csproj|c:\\users\\admin\\documents\\github\\t2345_csharp\\lesson24\\lab3_3\\lab3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED591E8-86A5-4581-8876-47E9BD9987D2}|Lab3_3\\Lab3_3.csproj|solutionrelative:lab3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED591E8-86A5-4581-8876-47E9BD9987D2}|Lab3_3\\Lab3_3.csproj|c:\\users\\admin\\documents\\github\\t2345_csharp\\lesson24\\lab3_3\\lab3_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED591E8-86A5-4581-8876-47E9BD9987D2}|Lab3_3\\Lab3_3.csproj|solutionrelative:lab3_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED591E8-86A5-4581-8876-47E9BD9987D2}|Lab3_3\\Lab3_3.csproj|c:\\users\\admin\\documents\\github\\t2345_csharp\\lesson24\\lab3_3\\lab3_3\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED591E8-86A5-4581-8876-47E9BD9987D2}|Lab3_3\\Lab3_3.csproj|solutionrelative:lab3_3\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\Lab3_3\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Lab3_3\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\Lab3_3\\StudentModel.cs*",
+              "RelativeToolTip": "Lab3_3\\StudentModel.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:42:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\Lab3_3\\Student.cs",
+              "RelativeDocumentMoniker": "Lab3_3\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\Lab3_3\\Student.cs*",
+              "RelativeToolTip": "Lab3_3\\Student.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:40:19.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\Lab3_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson24\\Lab3_3\\Lab3_3\\Program.cs",
+              "RelativeToolTip": "Lab3_3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:40:01.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
