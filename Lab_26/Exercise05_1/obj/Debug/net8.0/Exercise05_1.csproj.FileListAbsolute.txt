@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\bin\Debug\net8.0\Exercise05_1.exe
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\bin\Debug\net8.0\Exercise05_1.deps.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\bin\Debug\net8.0\Exercise05_1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\bin\Debug\net8.0\Exercise05_1.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\bin\Debug\net8.0\Exercise05_1.pdb
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.sourcelink.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\refint\Exercise05_1.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.pdb
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\Exercise05_1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Exercise05_1\obj\Debug\net8.0\ref\Exercise05_1.dll

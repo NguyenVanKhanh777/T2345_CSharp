@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\bin\Debug\net8.0\Lab5_1.exe
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\bin\Debug\net8.0\Lab5_1.deps.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\bin\Debug\net8.0\Lab5_1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\bin\Debug\net8.0\Lab5_1.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\bin\Debug\net8.0\Lab5_1.pdb
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.sourcelink.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\refint\Lab5_1.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.pdb
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\Lab5_1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\Lab_26\Lab5_1\Lab5_1\obj\Debug\net8.0\ref\Lab5_1.dll
