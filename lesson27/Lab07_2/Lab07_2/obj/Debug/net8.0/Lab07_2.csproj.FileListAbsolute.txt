@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_2\Lab07_2\obj\Debug\net8.0\Lab07_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_2\Lab07_2\obj\Debug\net8.0\Lab07_2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_2\Lab07_2\obj\Debug\net8.0\Lab07_2.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_2\Lab07_2\obj\Debug\net8.0\Lab07_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_2\Lab07_2\obj\Debug\net8.0\Lab07_2.sourcelink.json

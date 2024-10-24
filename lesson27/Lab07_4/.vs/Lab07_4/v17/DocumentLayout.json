@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson27\\Lab07_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2A472E-2271-43BF-862C-142DD4A1A71F}|Lab07_4\\Lab07_4.csproj|c:\\users\\admin\\documents\\github\\t2345_csharp\\lesson27\\lab07_4\\lab07_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2A472E-2271-43BF-862C-142DD4A1A71F}|Lab07_4\\Lab07_4.csproj|solutionrelative:lab07_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson27\\Lab07_4\\Lab07_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2345_CSharp\\lesson27\\Lab07_4\\Lab07_4\\Program.cs",
+              "RelativeToolTip": "Lab07_4\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:34:07.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.sourcelink.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\bin\Debug\net8.0\Lab07_4.exe
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\bin\Debug\net8.0\Lab07_4.deps.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\bin\Debug\net8.0\Lab07_4.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\bin\Debug\net8.0\Lab07_4.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\bin\Debug\net8.0\Lab07_4.pdb
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\refint\Lab07_4.dll
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.pdb
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\Lab07_4.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\T2345_CSharp\lesson27\Lab07_4\Lab07_4\obj\Debug\net8.0\ref\Lab07_4.dll
